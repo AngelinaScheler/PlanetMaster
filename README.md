@@ -17,6 +17,5 @@ Sind alle Monde rot hat man den Code geknackt und gewonnen.
 
 Wird man von einem Meteor getroffen oder berührt den Bildschirmrand, Gameover und es beginnt von vorne.
 
-Gesteuert wird das Raumschiff durch Touch auf den Bildschirm, je öfter man tippt, desto mehr gewinnt das Ufo an Höhe,
-
-tut man jedoch nichts, fällt es hinunter.
+Gesteuert wird das Raumschiff durch Touch auf den Bildschirm, je öfter man tippt, 
+desto mehr gewinnt das Ufo an Höhe, tut man jedoch nichts, fällt es hinunter.
