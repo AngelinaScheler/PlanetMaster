@@ -22,4 +22,4 @@ Wird man von einem Meteor getroffen oder berührt den Bildschirmrand, Gameover u
 Gesteuert wird das Raumschiff durch Touch auf den Bildschirm, je öfter man tippt, 
 desto mehr gewinnt das Ufo an Höhe, tut man jedoch nichts, fällt es hinunter.
 
-![Image of PlanetMasterScreenShot](https://github.com/AngelinaScheler/images/blob/master/PlanetMasterScreenShot.png)
+![Image of PlanetMasterScreenShot](https://github.com/AngelinaScheler/PlanetMaster/blob/master/PlanetMasterScreenShot.png)
